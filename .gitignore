@@ -11,8 +11,12 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+*.db
+*.swp
+*.lock
 
 # YARD artifacts
 .yardoc
 _yardoc
 doc/
+gems/
